@@ -100,9 +100,6 @@ Feel free to fork this repository and submit pull requests. For major changes, p
 - Story generation might take a few seconds
 - Questions are generated based on story context
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🤝 Acknowledgments
 
